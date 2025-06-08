@@ -1,0 +1,3 @@
+﻿Sofia 1200000
+Plovdiv 345000
+Varna 335000
